@@ -125,13 +125,13 @@ section#play4 h1 {
 
 /* Description List Styles */
 /* we are to keep this like dl>dt so the text doesnt run over the others*/
-dl>dt {
+dt {
     font: size 1.3em;
     font-weight: bold;
     color: hsla(0, 0%, 0%, 0.4)
 }
 
-dl>dd {
+dd {
     font: size 1.3em;
     margin: bottom 10px;
     margin: left 0px;
